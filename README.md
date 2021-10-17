@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://fb.com/ihrow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ihrow" height="30" width="40" /></a>
 <a href="https://discord.gg/ihrow#4373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ihrow#4373" height="30" width="40" /></a>
- <a href="t.me/iwblt" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="iwblt" height="30" width="40" /></a>
+ <a href="t.me/iwblt" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="iwblt" height="40" width="40" /></a>
 </p>
 
 
