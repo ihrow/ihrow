@@ -1,5 +1,5 @@
-<img src="https://github.com/iwblt/iwblt/blob/main/assets/github.gif" alt="header">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ihrow&label=homies&color=ffff00&style=flat" alt="ihrow" /> </p>
+<!-- <img src="https://github.com/iwblt/iwblt/blob/main/assets/github.gif" alt="header">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ihrow&label=homies&color=ffff00&style=flat" alt="ihrow" /> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
