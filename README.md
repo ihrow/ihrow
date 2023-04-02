@@ -1,27 +1,19 @@
-<!-- <img src="https://github.com/iwblt/iwblt/blob/main/assets/github.gif" alt="header">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ihrow&label=homies&color=ffff00&style=flat" alt="ihrow" /> </p> -->
+## 🙋‍♂️ About Me:
+I'm a passionate React / Javascript developer studying Applied Informatics at [Slovak University of Technology in Bratislava](https://www.stuba.sk/). My goal is to build applications that are not only visually appealing, but also responsive, scalable, and high-performing. I have a solid understanding of the latest web development technologies and trends, and I am constantly exploring new tools and techniques to improve my skills.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://t.me/iwblt" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="iwblt" height="40" width="40" /></a> &nbsp;
-  <a href="https://discord.gg/ihrow#4373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ihrow#4373" height="40" width="40" /></a> &nbsp;
-</p>
+## 🌍 Social media:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="html5" width="40" height="40"/> 
-  
-</p>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="html5" width="40" height="40"/>
-</p>
+[![Telegram](https://img.shields.io/badge/-Telegram-2AABEE?logo=telegram&logoColor=white)](https://t.me/ihrow) [![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/282945545356574720) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihrow/) 
 
-  
-  
+## 👨‍💻 Tech Stack:
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,redux,git)](https://skillicons.dev)
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihrow&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="ihrow" /></p>
+## 📊 Github Stats:
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ihrow&show_icons=true&bg_color=0,6725f2,df34ce&title_color=fff&text_color=fff&hide_border=true) 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihrow&layout=compact&bg_color=0,db33cf,F3F98A&title_color=fff&text_color=fff&hide_border=true" height=195/>
+![GitHub Streak](https://streak-stats.demolab.com?user=ihrow&hide_border=true&mode=weekly&background=0%2CF3F98A%2CED7B84&ring=EBEBEB&fire=EB4330&currStreakNum=EB6941&currStreakLabel=5200EB&sideLabels=5200EB&dates=EB000C)
+
+## Github Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=ihrow&rank=SECRET,S,AAA,SS,SSS,AA,A,B&margin-w=10&no-frame=true&no-bg=true&theme=darkhub)
