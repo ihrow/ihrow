@@ -13,7 +13,6 @@ I'm a passionate React / Javascript developer studying Applied Informatics at [S
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ihrow&show_icons=true&bg_color=0,6725f2,df34ce&title_color=fff&text_color=fff&hide_border=true) 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihrow&layout=compact&bg_color=0,db33cf,F3F98A&title_color=fff&text_color=fff&hide_border=true" height=195/>
-![GitHub Streak](https://streak-stats.demolab.com?user=ihrow&hide_border=true&mode=weekly&background=0%2CF3F98A%2CED7B84&ring=EBEBEB&fire=EB4330&currStreakNum=EB6941&currStreakLabel=5200EB&sideLabels=5200EB&dates=EB000C)
 
 ## Github Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=ihrow&rank=SECRET,S,AAA,SS,SSS,AA,A,B&margin-w=10&no-frame=true&no-bg=true&theme=darkhub)
