@@ -1,7 +1,7 @@
 <img src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105" />
 
 ## 🙋‍♂️ About Me:
-I'm a passionate React / Javascript developer studying Applied Informatics at [Slovak University of Technology in Bratislava](https://www.stuba.sk/). My goal is to build applications that are not only visually appealing, but also responsive, scalable, and high-performing. I have a solid understanding of the latest web development technologies and trends, and I am constantly exploring new tools and techniques to improve my skills.
+#### I'm a passionate React / Javascript developer studying Applied Informatics at [Slovak University of Technology in Bratislava](https://www.stuba.sk/). <br/> My goal is to build applications that are not only visually appealing, but also responsive, scalable, and high-performing. <br/> I have a solid understanding of the latest web development technologies and trends, and I am constantly exploring new tools and techniques to improve my skills.
 
 ## 🌍 Social media:
 
