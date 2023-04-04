@@ -1,7 +1,12 @@
 <img src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105" />
 
 ## 🙋‍♂️ About Me:
+[![wakatime](https://wakatime.com/badge/user/b7b5b4c4-21c7-453f-b0ba-346d985e4fc7.svg?style=for-the-badge)](https://wakatime.com/@b7b5b4c4-21c7-453f-b0ba-346d985e4fc7)
 #### I'm a passionate React / Javascript developer studying Applied Informatics at [Slovak University of Technology in Bratislava](https://www.stuba.sk/). <br/> My goal is to build applications that are not only visually appealing, but also responsive, scalable, and high-performing. <br/> I have a solid understanding of the latest web development technologies and trends, and I am constantly exploring new tools and techniques to improve my skills.
+
+<!-- ## 🕒 Wakatime:
+<img src="https://wakatime.com/share/@ihrow/ac7cf148-06a7-4e47-a6f3-a61dd08e6c17.svg" height=250 /> -->
+
 
 ## 🌍 Social media:
 
