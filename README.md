@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,redux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,vue,react,git)](https://skillicons.dev)
 
 ## 📊 Github Stats:
 
