@@ -2,6 +2,8 @@
 
 ## 🙋‍♂️ About Me:
 [![wakatime](https://wakatime.com/badge/user/b7b5b4c4-21c7-453f-b0ba-346d985e4fc7.svg?style=for-the-badge)](https://wakatime.com/@b7b5b4c4-21c7-453f-b0ba-346d985e4fc7)
+
+[![wakatime](https://wakatime.com/share/@ihrow/cce876d9-abaa-4ffe-a27e-1938b1efb72a.svg)](https://wakatime.com/@b7b5b4c4-21c7-453f-b0ba-346d985e4fc7)
 #### I'm a passionate React / Javascript developer studying Applied Informatics at [Slovak University of Technology in Bratislava](https://www.stuba.sk/). <br/> My goal is to build applications that are not only visually appealing, but also responsive, scalable, and high-performing. <br/> I have a solid understanding of the latest web development technologies and trends, and I am constantly exploring new tools and techniques to improve my skills.
 
 <!-- ## 🕒 Wakatime:
