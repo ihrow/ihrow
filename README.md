@@ -1,7 +1,7 @@
 <img src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105" />
 
 ## 🙋‍♂️ About Me:
-Studying Applied Informatics at [Slovak University of Technology in Bratislava](https://www.stuba.sk/) and currently working at [Anasoft](https://anasoft.com) as Front-end Developer.<br/>
+Finished bachelor's degree at [Slovak University of Technology in Bratislava](https://www.stuba.sk/) and currently working at [Anasoft](https://anasoft.com) as Front-end Developer.<br/>
 
 
 ## 🕒 Wakatime:
