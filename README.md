@@ -16,11 +16,3 @@ Finished bachelor's degree at [Slovak University of Technology in Bratislava](ht
 ## 👨‍💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,vue,react,git)](https://skillicons.dev)
-
-## 📊 Github Stats:
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ihrow&show_icons=true&bg_color=0,6725f2,df34ce&title_color=fff&text_color=fff&hide_border=true) 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihrow&layout=compact&bg_color=0,db33cf,6725f2&title_color=fff&text_color=fff&hide_border=true" height=195/>
-
-## 🏆 Github Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=ihrow&rank=SECRET,S,AAA,SS,SSS,AA,A,B&margin-w=10&no-frame=true&no-bg=true&theme=darkhub)
